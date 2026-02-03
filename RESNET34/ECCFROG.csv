@@ -1,0 +1,66 @@
+Encryption disabled
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.00268 s | CRYPTO: 0.00000 s | AUTH: 24.83086 s | TOTAL: 24.83354 s | IMPACT: 0.00% | AUTH_IMPACT: 99.99%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00072 s | CRYPTO: 0.00000 s | AUTH: 22.79514 s | TOTAL: 22.79586 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00083 s | CRYPTO: 0.00000 s | AUTH: 23.51903 s | TOTAL: 23.51986 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00085 s | CRYPTO: 0.00000 s | AUTH: 23.44482 s | TOTAL: 23.44567 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00141 s | CRYPTO: 0.00000 s | AUTH: 26.73126 s | TOTAL: 26.73267 s | IMPACT: 0.00% | AUTH_IMPACT: 99.99%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00095 s | CRYPTO: 0.00000 s | AUTH: 23.73728 s | TOTAL: 23.73823 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00086 s | CRYPTO: 0.00000 s | AUTH: 23.97193 s | TOTAL: 23.97279 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00081 s | CRYPTO: 0.00000 s | AUTH: 24.23231 s | TOTAL: 24.23311 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00084 s | CRYPTO: 0.00000 s | AUTH: 24.44808 s | TOTAL: 24.44892 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00083 s | CRYPTO: 0.00000 s | AUTH: 23.19137 s | TOTAL: 23.19219 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00136 s | CRYPTO: 0.00000 s | AUTH: 24.59557 s | TOTAL: 24.59693 s | IMPACT: 0.00% | AUTH_IMPACT: 99.99%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00085 s | CRYPTO: 0.00000 s | AUTH: 24.09863 s | TOTAL: 24.09947 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00092 s | CRYPTO: 0.00000 s | AUTH: 23.23040 s | TOTAL: 23.23132 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00095 s | CRYPTO: 0.00000 s | AUTH: 23.42829 s | TOTAL: 23.42924 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00075 s | CRYPTO: 0.00000 s | AUTH: 23.14387 s | TOTAL: 23.14462 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00077 s | CRYPTO: 0.00000 s | AUTH: 23.03942 s | TOTAL: 23.04019 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00073 s | CRYPTO: 0.00000 s | AUTH: 23.47029 s | TOTAL: 23.47103 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.00202 s | CRYPTO: 0.00000 s | AUTH: 25.04111 s | TOTAL: 25.04313 s | IMPACT: 0.00% | AUTH_IMPACT: 99.99%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00089 s | CRYPTO: 0.00000 s | AUTH: 23.63348 s | TOTAL: 23.63437 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00069 s | CRYPTO: 0.00000 s | AUTH: 23.15700 s | TOTAL: 23.15769 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00075 s | CRYPTO: 0.00000 s | AUTH: 24.19112 s | TOTAL: 24.19188 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | SERIALIZE: 0.00084 s | CRYPTO: 0.00000 s | AUTH: 23.80594 s | TOTAL: 23.80678 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.00137 s | CRYPTO: 0.00000 s | AUTH: 43.49840 s | TOTAL: 43.49978 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.00194 s | CRYPTO: 0.00000 s | AUTH: 43.93542 s | TOTAL: 43.93736 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.00320 s | CRYPTO: 0.00000 s | AUTH: 563.08268 s | TOTAL: 563.08587 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.00567 s | CRYPTO: 0.00000 s | AUTH: 827.85411 s | TOTAL: 827.85978 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.00415 s | CRYPTO: 0.00000 s | AUTH: 919.62690 s | TOTAL: 919.63105 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.00827 s | CRYPTO: 0.00000 s | AUTH: 935.20564 s | TOTAL: 935.21390 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.03504 s | CRYPTO: 0.00000 s | AUTH: 972.90009 s | TOTAL: 972.93513 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.06146 s | CRYPTO: 0.00000 s | AUTH: 986.93052 s | TOTAL: 986.99198 s | IMPACT: 0.00% | AUTH_IMPACT: 99.99%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.00594 s | CRYPTO: 0.00000 s | AUTH: 1025.51207 s | TOTAL: 1025.51801 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.06255 s | CRYPTO: 0.00000 s | AUTH: 1017.09573 s | TOTAL: 1017.15828 s | IMPACT: 0.00% | AUTH_IMPACT: 99.99%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.00618 s | CRYPTO: 0.00000 s | AUTH: 1020.23798 s | TOTAL: 1020.24416 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.00426 s | CRYPTO: 0.00000 s | AUTH: 1014.92991 s | TOTAL: 1014.93417 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.00591 s | CRYPTO: 0.00000 s | AUTH: 959.36543 s | TOTAL: 959.37134 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.03160 s | CRYPTO: 0.00000 s | AUTH: 929.19351 s | TOTAL: 929.22512 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.00642 s | CRYPTO: 0.00000 s | AUTH: 928.77320 s | TOTAL: 928.77962 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.00446 s | CRYPTO: 0.00000 s | AUTH: 939.97062 s | TOTAL: 939.97508 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=ECCFROG522PP | DESERIALIZE: 0.00612 s | CRYPTO: 0.00000 s | AUTH: 929.95860 s | TOTAL: 929.96472 s | IMPACT: 0.00% | AUTH_IMPACT: 100.00%
+Tempo totale round 2: 3041.16 s
+=== Report tempi round ===
+Round 1: totale=3017.84s | crypto=0.00s (0.00%) | auth=2320.32s (76.89%) | crypto_cum=0.00s | auth_cum=46406.36s | senza_critto=3017.84s | parallel_factor=20 | parallel_fit=20 | parallel_eval=0
+Round 2: totale=3041.16s | crypto=0.00s (0.00%) | auth=2271.93s (74.71%) | crypto_cum=0.00s | auth_cum=45438.61s | senza_critto=3041.16s | parallel_factor=20 | parallel_fit=20 | parallel_eval=0
+Totale critto (parallel): 0.00s su 6059.01s (0.00%)
+Totale auth (parallel): 4592.25s su 6059.01s (75.79%)
+Totale auth cumulativo: 91844.97s
+Early stopping triggered at round 2, stopping server.
+Run finished 1000 round(s) in 6059.01s
+Totale critto: 0.00 s su 6059.01 s (0.00%) | auth: 91844.97 s (1515.84%) | serializzazione: 1.97 s
+Overhead totale: 2380560 B su 3408991040 B (0.07%)
+Overhead ECCFROG522PP: 2380560 B (0.07%) | medio=273.00 B/msg
+Overhead medio auth: 273.03 B/msg
+	History (loss, centralized):
+
+		round 1: 2.349097752761841
+
+		round 2: 0.8524479016304016
+
+	History (metrics, centralized):
+
+	{'accuracy': [(1, 0.1387), (2, 0.7076)],
+
+	 'round_time': [(1, 3017.8431186005473), (2, 3041.164818019606)]}
+
+

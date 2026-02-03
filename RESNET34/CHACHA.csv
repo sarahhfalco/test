@@ -1,0 +1,68 @@
+Encryption enabled: CHACHA
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00309 s | CRYPTO: 0.36254 s | AUTH: 0.00000 s | TOTAL: 0.36563 s | IMPACT: 99.15% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00071 s | CRYPTO: 0.11661 s | AUTH: 0.00000 s | TOTAL: 0.11731 s | IMPACT: 99.40% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00074 s | CRYPTO: 0.09529 s | AUTH: 0.00000 s | TOTAL: 0.09604 s | IMPACT: 99.23% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00096 s | CRYPTO: 0.10645 s | AUTH: 0.00000 s | TOTAL: 0.10740 s | IMPACT: 99.11% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00074 s | CRYPTO: 0.11418 s | AUTH: 0.00000 s | TOTAL: 0.11491 s | IMPACT: 99.36% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00068 s | CRYPTO: 0.10805 s | AUTH: 0.00000 s | TOTAL: 0.10873 s | IMPACT: 99.37% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00099 s | CRYPTO: 0.08921 s | AUTH: 0.00000 s | TOTAL: 0.09020 s | IMPACT: 98.90% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00067 s | CRYPTO: 0.08898 s | AUTH: 0.00000 s | TOTAL: 0.08965 s | IMPACT: 99.25% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00073 s | CRYPTO: 0.19543 s | AUTH: 0.00000 s | TOTAL: 0.19615 s | IMPACT: 99.63% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00065 s | CRYPTO: 0.09158 s | AUTH: 0.00000 s | TOTAL: 0.09223 s | IMPACT: 99.29% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00094 s | CRYPTO: 0.09806 s | AUTH: 0.00000 s | TOTAL: 0.09900 s | IMPACT: 99.05% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00082 s | CRYPTO: 0.15822 s | AUTH: 0.00000 s | TOTAL: 0.15904 s | IMPACT: 99.48% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00099 s | CRYPTO: 0.19790 s | AUTH: 0.00000 s | TOTAL: 0.19889 s | IMPACT: 99.50% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00104 s | CRYPTO: 0.29112 s | AUTH: 0.00000 s | TOTAL: 0.29216 s | IMPACT: 99.65% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00103 s | CRYPTO: 0.15363 s | AUTH: 0.00000 s | TOTAL: 0.15466 s | IMPACT: 99.33% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00103 s | CRYPTO: 0.09940 s | AUTH: 0.00000 s | TOTAL: 0.10043 s | IMPACT: 98.98% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00071 s | CRYPTO: 0.15511 s | AUTH: 0.00000 s | TOTAL: 0.15582 s | IMPACT: 99.55% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00072 s | CRYPTO: 0.13303 s | AUTH: 0.00000 s | TOTAL: 0.13374 s | IMPACT: 99.46% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00071 s | CRYPTO: 0.11708 s | AUTH: 0.00000 s | TOTAL: 0.11779 s | IMPACT: 99.40% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00072 s | CRYPTO: 0.09146 s | AUTH: 0.00000 s | TOTAL: 0.09217 s | IMPACT: 99.22% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00067 s | CRYPTO: 0.08213 s | AUTH: 0.00000 s | TOTAL: 0.08280 s | IMPACT: 99.19% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00081 s | CRYPTO: 0.07652 s | AUTH: 0.00000 s | TOTAL: 0.07733 s | IMPACT: 98.95% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00082 s | CRYPTO: 0.07613 s | AUTH: 0.00000 s | TOTAL: 0.07695 s | IMPACT: 98.94% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00086 s | CRYPTO: 0.18092 s | AUTH: 0.00000 s | TOTAL: 0.18178 s | IMPACT: 99.52% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00081 s | CRYPTO: 0.07306 s | AUTH: 0.00000 s | TOTAL: 0.07387 s | IMPACT: 98.91% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00085 s | CRYPTO: 0.13985 s | AUTH: 0.00000 s | TOTAL: 0.14069 s | IMPACT: 99.40% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00084 s | CRYPTO: 0.15104 s | AUTH: 0.00000 s | TOTAL: 0.15188 s | IMPACT: 99.45% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00072 s | CRYPTO: 0.21204 s | AUTH: 0.00000 s | TOTAL: 0.21276 s | IMPACT: 99.66% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00079 s | CRYPTO: 0.06814 s | AUTH: 0.00000 s | TOTAL: 0.06893 s | IMPACT: 98.85% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00068 s | CRYPTO: 0.13802 s | AUTH: 0.00000 s | TOTAL: 0.13869 s | IMPACT: 99.51% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00071 s | CRYPTO: 0.13772 s | AUTH: 0.00000 s | TOTAL: 0.13843 s | IMPACT: 99.49% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00071 s | CRYPTO: 0.15218 s | AUTH: 0.00000 s | TOTAL: 0.15289 s | IMPACT: 99.54% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00070 s | CRYPTO: 0.15994 s | AUTH: 0.00000 s | TOTAL: 0.16065 s | IMPACT: 99.56% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00074 s | CRYPTO: 0.15518 s | AUTH: 0.00000 s | TOTAL: 0.15592 s | IMPACT: 99.53% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | SERIALIZE: 0.00068 s | CRYPTO: 0.08170 s | AUTH: 0.00000 s | TOTAL: 0.08239 s | IMPACT: 99.17% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00087 s | CRYPTO: 0.07276 s | AUTH: 0.00000 s | TOTAL: 0.07364 s | IMPACT: 98.81% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00118 s | CRYPTO: 0.06958 s | AUTH: 0.00000 s | TOTAL: 0.07077 s | IMPACT: 98.33% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.02986 s | CRYPTO: 0.24228 s | AUTH: 0.00000 s | TOTAL: 0.27214 s | IMPACT: 89.03% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00081 s | CRYPTO: 0.16290 s | AUTH: 0.00000 s | TOTAL: 0.16371 s | IMPACT: 99.50% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00085 s | CRYPTO: 0.15040 s | AUTH: 0.00000 s | TOTAL: 0.15125 s | IMPACT: 99.44% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=CHACHA | auth_enabled=False auth_method=None | DESERIALIZE: 0.00077 s | CRYPTO: 0.06487 s | AUTH: 0.00000 s | TOTAL: 0.06564 s | IMPACT: 98.83% | AUTH_IMPACT: 0.00%
+Tempo totale round 2: 216.50 s
+=== Report tempi round ===
+Round 1: totale=207.74s | crypto=2.65s (1.28%) | auth=0.00s (0.00%) | crypto_cum=53.08s | auth_cum=0.00s | senza_critto=205.09s | parallel_factor=20 | parallel_fit=20 | parallel_eval=0
+Round 2: totale=216.50s | crypto=1.58s (0.73%) | auth=0.00s (0.00%) | crypto_cum=31.63s | auth_cum=0.00s | senza_critto=214.91s | parallel_factor=20 | parallel_fit=20 | parallel_eval=0
+Totale critto (parallel): 4.24s su 424.24s (1.00%)
+Totale auth (parallel): 0.00s su 424.24s (0.00%)
+Totale critto cumulativo: 84.72s
+Early stopping triggered at round 2, stopping server.
+Run finished 1000 round(s) in 424.24s
+Totale critto: 84.72 s su 424.24 s (19.97%) | auth: 0.00 s (0.00%) | serializzazione: 0.10 s
+Overhead totale: 139520 B su 3408991040 B (0.00%)
+Overhead CHACHA: 139520 B (0.00%) | medio=16.00 B/msg
+Overhead medio crypto: 16.00 B/msg
+	History (loss, centralized):
+
+		round 1: 2.367037098312378
+
+		round 2: 0.8279258762359619
+
+	History (metrics, centralized):
+
+	{'accuracy': [(1, 0.1299), (2, 0.7114)],
+
+	 'round_time': [(1, 207.74314811173826), (2, 216.4965041168034)]}
+
+

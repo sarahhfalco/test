@@ -1,0 +1,65 @@
+Encryption enabled: AES
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | DESERIALIZE: 0.00078 s | CRYPTO: 0.11785 s | AUTH: 0.00000 s | TOTAL: 0.11863 s | IMPACT: 99.34% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | SERIALIZE: 0.00045 s | CRYPTO: 0.13195 s | AUTH: 0.00000 s | TOTAL: 0.13241 s | IMPACT: 99.66% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | SERIALIZE: 0.00048 s | CRYPTO: 0.12071 s | AUTH: 0.00000 s | TOTAL: 0.12119 s | IMPACT: 99.60% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | SERIALIZE: 0.00042 s | CRYPTO: 0.11357 s | AUTH: 0.00000 s | TOTAL: 0.11399 s | IMPACT: 99.63% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | DESERIALIZE: 0.00065 s | CRYPTO: 0.06587 s | AUTH: 0.00000 s | TOTAL: 0.06653 s | IMPACT: 99.02% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | SERIALIZE: 0.00043 s | CRYPTO: 0.11862 s | AUTH: 0.00000 s | TOTAL: 0.11905 s | IMPACT: 99.64% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | SERIALIZE: 0.00040 s | CRYPTO: 0.12121 s | AUTH: 0.00000 s | TOTAL: 0.12161 s | IMPACT: 99.67% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | SERIALIZE: 0.00045 s | CRYPTO: 0.10311 s | AUTH: 0.00000 s | TOTAL: 0.10356 s | IMPACT: 99.57% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | SERIALIZE: 0.00045 s | CRYPTO: 0.10117 s | AUTH: 0.00000 s | TOTAL: 0.10162 s | IMPACT: 99.56% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | SERIALIZE: 0.00044 s | CRYPTO: 0.10196 s | AUTH: 0.00000 s | TOTAL: 0.10241 s | IMPACT: 99.57% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | SERIALIZE: 0.00041 s | CRYPTO: 0.11033 s | AUTH: 0.00000 s | TOTAL: 0.11075 s | IMPACT: 99.63% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | SERIALIZE: 0.00048 s | CRYPTO: 0.15592 s | AUTH: 0.00000 s | TOTAL: 0.15641 s | IMPACT: 99.69% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | DESERIALIZE: 0.00173 s | CRYPTO: 0.06761 s | AUTH: 0.00000 s | TOTAL: 0.06934 s | IMPACT: 97.51% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | SERIALIZE: 0.00059 s | CRYPTO: 0.18943 s | AUTH: 0.00000 s | TOTAL: 0.19003 s | IMPACT: 99.69% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | SERIALIZE: 0.00040 s | CRYPTO: 0.15984 s | AUTH: 0.00000 s | TOTAL: 0.16025 s | IMPACT: 99.75% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | SERIALIZE: 0.00038 s | CRYPTO: 0.11135 s | AUTH: 0.00000 s | TOTAL: 0.11173 s | IMPACT: 99.66% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | SERIALIZE: 0.00041 s | CRYPTO: 0.09878 s | AUTH: 0.00000 s | TOTAL: 0.09919 s | IMPACT: 99.59% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | DESERIALIZE: 0.00046 s | CRYPTO: 0.05339 s | AUTH: 0.00000 s | TOTAL: 0.05384 s | IMPACT: 99.15% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | DESERIALIZE: 0.00046 s | CRYPTO: 0.05345 s | AUTH: 0.00000 s | TOTAL: 0.05391 s | IMPACT: 99.15% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | SERIALIZE: 0.00036 s | CRYPTO: 0.09910 s | AUTH: 0.00000 s | TOTAL: 0.09947 s | IMPACT: 99.63% | AUTH_IMPACT: 0.00%
+CRYPTO STATUS: enabled=True method=AES | auth_enabled=False auth_method=None | DESERIALIZE: 0.00045 s | CRYPTO: 0.05172 s | AUTH: 0.00000 s | TOTAL: 0.05216 s | IMPACT: 99.15% | AUTH_IMPACT: 0.00%
+Tempo totale round 5: 65.17 s
+=== Report tempi round ===
+Round 1: totale=73.03s | crypto=1.93s (2.64%) | auth=0.00s (0.00%) | crypto_cum=28.92s | auth_cum=0.00s | senza_critto=71.10s | parallel_factor=15 | parallel_fit=15 | parallel_eval=0
+Round 2: totale=75.32s | crypto=1.90s (2.52%) | auth=0.00s (0.00%) | crypto_cum=28.50s | auth_cum=0.00s | senza_critto=73.42s | parallel_factor=15 | parallel_fit=15 | parallel_eval=0
+Round 3: totale=72.92s | crypto=0.84s (1.16%) | auth=0.00s (0.00%) | crypto_cum=12.64s | auth_cum=0.00s | senza_critto=72.08s | parallel_factor=15 | parallel_fit=15 | parallel_eval=0
+Round 4: totale=63.05s | crypto=1.14s (1.80%) | auth=0.00s (0.00%) | crypto_cum=17.04s | auth_cum=0.00s | senza_critto=61.91s | parallel_factor=15 | parallel_fit=15 | parallel_eval=0
+Round 5: totale=65.17s | crypto=1.56s (2.40%) | auth=0.00s (0.00%) | crypto_cum=23.43s | auth_cum=0.00s | senza_critto=63.61s | parallel_factor=15 | parallel_fit=15 | parallel_eval=0
+Totale critto (parallel): 7.37s su 349.49s (2.11%)
+Totale auth (parallel): 0.00s su 349.49s (0.00%)
+Totale critto cumulativo: 110.52s
+Early stopping triggered at round 5, stopping server.
+Run finished 1000 round(s) in 349.50s
+Totale critto: 110.52 s su 349.50 s (31.62%) | auth: 0.00 s (0.00%) | serializzazione: 0.06 s
+Overhead totale: 280200 B su 3358555800 B (0.01%)
+Overhead AES: 280200 B (0.01%) | medio=30.62 B/msg
+Overhead medio crypto: 30.62 B/msg
+	History (loss, centralized):
+
+		round 1: 2.2615821369171143
+
+		round 2: 1.2642703346252442
+
+		round 3: 0.9687740575790406
+
+		round 4: 0.9090270057678222
+
+		round 5: 0.7851495797157287
+
+	History (metrics, centralized):
+
+	{'accuracy': [(1, 0.155), (2, 0.5897), (3, 0.68), (4, 0.6996), (5, 0.7323)],
+
+	 'round_time': [(1, 73.03330652229488),
+
+	                (2, 75.32067327387631),
+
+	                (3, 72.91929269582033),
+
+	                (4, 63.04702814947814),
+
+	                (5, 65.17182077653706)]}
+
+

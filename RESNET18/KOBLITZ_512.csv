@@ -1,0 +1,70 @@
+Encryption disabled
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | DESERIALIZE: 0.00107 s | CRYPTO: 0.00000 s | AUTH: 0.30626 s | TOTAL: 0.30733 s | IMPACT: 0.00% | AUTH_IMPACT: 99.65%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | SERIALIZE: 0.00041 s | CRYPTO: 0.00000 s | AUTH: 0.32263 s | TOTAL: 0.32304 s | IMPACT: 0.00% | AUTH_IMPACT: 99.87%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | SERIALIZE: 0.00040 s | CRYPTO: 0.00000 s | AUTH: 0.31339 s | TOTAL: 0.31380 s | IMPACT: 0.00% | AUTH_IMPACT: 99.87%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | SERIALIZE: 0.00041 s | CRYPTO: 0.00000 s | AUTH: 0.30054 s | TOTAL: 0.30094 s | IMPACT: 0.00% | AUTH_IMPACT: 99.86%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | SERIALIZE: 0.00054 s | CRYPTO: 0.00000 s | AUTH: 0.43859 s | TOTAL: 0.43913 s | IMPACT: 0.00% | AUTH_IMPACT: 99.88%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | SERIALIZE: 0.00045 s | CRYPTO: 0.00000 s | AUTH: 0.30782 s | TOTAL: 0.30827 s | IMPACT: 0.00% | AUTH_IMPACT: 99.85%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | SERIALIZE: 0.00041 s | CRYPTO: 0.00000 s | AUTH: 0.31743 s | TOTAL: 0.31783 s | IMPACT: 0.00% | AUTH_IMPACT: 99.87%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | SERIALIZE: 0.00040 s | CRYPTO: 0.00000 s | AUTH: 0.28623 s | TOTAL: 0.28663 s | IMPACT: 0.00% | AUTH_IMPACT: 99.86%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | SERIALIZE: 0.00037 s | CRYPTO: 0.00000 s | AUTH: 0.29243 s | TOTAL: 0.29280 s | IMPACT: 0.00% | AUTH_IMPACT: 99.87%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | SERIALIZE: 0.00039 s | CRYPTO: 0.00000 s | AUTH: 0.30195 s | TOTAL: 0.30234 s | IMPACT: 0.00% | AUTH_IMPACT: 99.87%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | SERIALIZE: 0.00056 s | CRYPTO: 0.00000 s | AUTH: 0.44841 s | TOTAL: 0.44897 s | IMPACT: 0.00% | AUTH_IMPACT: 99.88%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | SERIALIZE: 0.00043 s | CRYPTO: 0.00000 s | AUTH: 0.38586 s | TOTAL: 0.38629 s | IMPACT: 0.00% | AUTH_IMPACT: 99.89%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | SERIALIZE: 0.00041 s | CRYPTO: 0.00000 s | AUTH: 0.39903 s | TOTAL: 0.39944 s | IMPACT: 0.00% | AUTH_IMPACT: 99.90%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | SERIALIZE: 0.00043 s | CRYPTO: 0.00000 s | AUTH: 0.31162 s | TOTAL: 0.31205 s | IMPACT: 0.00% | AUTH_IMPACT: 99.86%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | SERIALIZE: 0.00040 s | CRYPTO: 0.00000 s | AUTH: 0.28925 s | TOTAL: 0.28965 s | IMPACT: 0.00% | AUTH_IMPACT: 99.86%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | SERIALIZE: 0.00038 s | CRYPTO: 0.00000 s | AUTH: 0.27783 s | TOTAL: 0.27822 s | IMPACT: 0.00% | AUTH_IMPACT: 99.86%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | DESERIALIZE: 0.00155 s | CRYPTO: 0.00000 s | AUTH: 0.21157 s | TOTAL: 0.21311 s | IMPACT: 0.00% | AUTH_IMPACT: 99.27%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | DESERIALIZE: 0.00105 s | CRYPTO: 0.00000 s | AUTH: 0.21169 s | TOTAL: 0.21274 s | IMPACT: 0.00% | AUTH_IMPACT: 99.51%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | DESERIALIZE: 0.00058 s | CRYPTO: 0.00000 s | AUTH: 0.20533 s | TOTAL: 0.20590 s | IMPACT: 0.00% | AUTH_IMPACT: 99.72%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | DESERIALIZE: 0.00068 s | CRYPTO: 0.00000 s | AUTH: 0.19674 s | TOTAL: 0.19742 s | IMPACT: 0.00% | AUTH_IMPACT: 99.66%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | DESERIALIZE: 0.00089 s | CRYPTO: 0.00000 s | AUTH: 0.27834 s | TOTAL: 0.27923 s | IMPACT: 0.00% | AUTH_IMPACT: 99.68%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | DESERIALIZE: 0.00060 s | CRYPTO: 0.00000 s | AUTH: 0.23405 s | TOTAL: 0.23465 s | IMPACT: 0.00% | AUTH_IMPACT: 99.74%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | DESERIALIZE: 0.00059 s | CRYPTO: 0.00000 s | AUTH: 0.26408 s | TOTAL: 0.26467 s | IMPACT: 0.00% | AUTH_IMPACT: 99.78%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | DESERIALIZE: 0.00071 s | CRYPTO: 0.00000 s | AUTH: 0.40634 s | TOTAL: 0.40705 s | IMPACT: 0.00% | AUTH_IMPACT: 99.83%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | DESERIALIZE: 0.00143 s | CRYPTO: 0.00000 s | AUTH: 0.31889 s | TOTAL: 0.32032 s | IMPACT: 0.00% | AUTH_IMPACT: 99.55%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | DESERIALIZE: 0.00091 s | CRYPTO: 0.00000 s | AUTH: 0.19967 s | TOTAL: 0.20058 s | IMPACT: 0.00% | AUTH_IMPACT: 99.55%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | DESERIALIZE: 0.00057 s | CRYPTO: 0.00000 s | AUTH: 0.21004 s | TOTAL: 0.21061 s | IMPACT: 0.00% | AUTH_IMPACT: 99.73%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | DESERIALIZE: 0.00057 s | CRYPTO: 0.00000 s | AUTH: 0.22825 s | TOTAL: 0.22882 s | IMPACT: 0.00% | AUTH_IMPACT: 99.75%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | DESERIALIZE: 0.00085 s | CRYPTO: 0.00000 s | AUTH: 0.19431 s | TOTAL: 0.19516 s | IMPACT: 0.00% | AUTH_IMPACT: 99.56%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | DESERIALIZE: 0.00139 s | CRYPTO: 0.00000 s | AUTH: 0.39321 s | TOTAL: 0.39460 s | IMPACT: 0.00% | AUTH_IMPACT: 99.65%
+CRYPTO STATUS: enabled=False method=None | auth_enabled=True auth_method=KOBLITZ_256 | DESERIALIZE: 0.00122 s | CRYPTO: 0.00000 s | AUTH: 0.42484 s | TOTAL: 0.42605 s | IMPACT: 0.00% | AUTH_IMPACT: 99.71%
+Tempo totale round 4: 81.01 s
+=== Report tempi round ===
+Round 1: totale=81.62s | crypto=0.00s (0.00%) | auth=10.53s (12.90%) | crypto_cum=0.00s | auth_cum=157.99s | senza_critto=81.62s | parallel_factor=15 | parallel_fit=15 | parallel_eval=0
+Round 2: totale=83.89s | crypto=0.00s (0.00%) | auth=10.68s (12.74%) | crypto_cum=0.00s | auth_cum=160.26s | senza_critto=83.89s | parallel_factor=15 | parallel_fit=15 | parallel_eval=0
+Round 3: totale=73.24s | crypto=0.00s (0.00%) | auth=9.34s (12.76%) | crypto_cum=0.00s | auth_cum=140.16s | senza_critto=73.24s | parallel_factor=15 | parallel_fit=15 | parallel_eval=0
+Round 4: totale=81.01s | crypto=0.00s (0.00%) | auth=9.54s (11.78%) | crypto_cum=0.00s | auth_cum=143.10s | senza_critto=81.01s | parallel_factor=15 | parallel_fit=15 | parallel_eval=0
+Totale critto (parallel): 0.00s su 319.76s (0.00%)
+Totale auth (parallel): 40.10s su 319.76s (12.54%)
+Totale auth cumulativo: 601.52s
+Early stopping triggered at round 4, stopping server.
+Run finished 1000 round(s) in 319.77s
+Totale critto: 0.00 s su 319.77 s (0.00%) | auth: 601.52 s (188.11%) | serializzazione: 0.48 s
+Overhead totale: 1851919 B su 2686844640 B (0.07%)
+Overhead KOBLITZ_256: 1847618 B (0.07%) | medio=252.41 B/msg
+Overhead medio auth: 252.68 B/msg
+	History (loss, centralized):
+
+		round 1: 2.272448508453369
+
+		round 2: 1.2315822288513183
+
+		round 3: 0.979468858718872
+
+		round 4: 0.8520654047012329
+
+	History (metrics, centralized):
+
+	{'accuracy': [(1, 0.188), (2, 0.6207), (3, 0.6695), (4, 0.7134)],
+
+	 'round_time': [(1, 81.61719236429781),
+
+	                (2, 83.89287181198597),
+
+	                (3, 73.24095359444618),
+
+	                (4, 81.01116439513862)]}
+
+
